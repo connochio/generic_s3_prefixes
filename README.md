@@ -9,7 +9,7 @@ Hopefully short-lived since this repo will be archived as soon as Home Assistant
 
 ## Install
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=svoop&repository=generic_s3&category=integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=svoop&repository=generic_s3&category=Integration)
 
 Install this integration via HACS with the link above.
 
