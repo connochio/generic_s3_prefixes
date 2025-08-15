@@ -1,3 +1,5 @@
+[![Static Badge](https://img.shields.io/badge/HACS-Custom-41BDF5?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white)](https://github.com/hacs/integration) 
+
 # Generic S3 component for Home Assistant
 
 A quick fork of the [AWS S3 component](https://github.com/home-assistant/core/tree/dev/homeassistant/components/aws_s3) by [
@@ -6,6 +8,12 @@ Tomáš Bedřich](https://github.com/tomasbedrich) which is not restricted to AW
 Hopefully short-lived since this repo will be archived as soon as Home Assistant implements support for compatible S3 providers out of the box.
 
 ## Install
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=svoop&repository=generic_s3&category=integration)
+
+Install this integration via HACS with the link above.
+
+Alternatively, you can manually install this integration using the commands below in the Home Assistant terminal.
 
 ```
 cd config   # where configuration.yaml lives
